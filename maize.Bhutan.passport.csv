@@ -1,0 +1,347 @@
+ID,Acc_name,status,Country,LON,LAT
+BTNC_2,Ashom tsalu,LR,Bhutan,91.58,27.01
+BTNC_524,Rongthungpa,LR,Bhutan,90.96,26.97
+BTNC_525,Jangala serpo,LR,Bhutan,91.155,27.599
+BTNC_529,Temchila,LR,Bhutan,91.14,27.3
+BTNC_531,Ashom serpo,LR,Bhutan,91.13,27.29
+BTNC_532,Jangala karpo,LR,Bhutan,91.212,27.655
+BTNC_538,Asham tsalu,LR,Bhutan,91.22,27.26
+BTNC_540,Serthigpa ashom,LR,Bhutan,91.99,27.03
+BTNC_541,Tshigsumpa,LR,Bhutan,91.422,27.238
+BTNC_543,Barma asham,LR,Bhutan,91.13,27.53
+BTNC_548,Pahelo makai,LR,Bhutan,91.70389,26.87278
+BTNC_550,Baypa asham,LR,Bhutan,92.03,27.01
+BTNC_553,Domba khartila,LR,Bhutan,90.54,26.9
+BTNC_570,Ashom,LR,Bhutan,91.383,26.95
+BTNC_571,Ashom,LR,Bhutan,91.341,27.024
+BTNC_572,Ashom,LR,Bhutan,91.37,27.11
+BTNC_574,Kanglungpa asho,LR,Bhutan,91.42,27.01
+BTNC_575,Ashom,LR,Bhutan,91.41,27
+BTNC_583,Berkhala ashom,LR,Bhutan,91.56,26.93
+BTNC_54,Paheli makai,LR,Bhutan,89.46,26.83
+BTNC_835,Lauripa ashom,LR,Bhutan,91.96,27.11
+BTNC_862,Ashom tsalo,LR,Bhutan,89.47,27.34
+BTNC_863,Ashom,LR,Bhutan,91.5,26.95
+BTNC_893,Asham,LR,Bhutan,91.32,27.31
+BTNC_56,Asham,LR,Bhutan,91.412,27.015
+BTNC_1055,Lasum gayza,LR,Bhutan,90.2,27.62
+BTNC_65,Asham balingbi,LR,Bhutan,91.57,27.04
+BTNC_1360,Ashom,LR,Bhutan,91.62,27.12
+BTNC_1361,Ashom,LR,Bhutan,91.5132,27.2233
+BTNC_1363,Ashom tshalo,LR,Bhutan,91.62,27.12
+BTNC_1364,Baipa ashom,LR,Bhutan,89.51,27.21
+BTNC_74,Asham,LR,Bhutan,91.346,27.019
+BTNC_80,Raba tsalu asha,LR,Bhutan,91.12,27.52
+BTNC_1485,Gayza baso,LR,Bhutan,89.38493,27.05284
+BTNC_1494,Talop geza,LR,Bhutan,89.83,27.56
+BTNC_81,Dremtsepa ashom,LR,Bhutan,91.593,26.975
+BTNC_1632,Tsekharpa,LR,Bhutan,91.52,27.12
+BTNC_1635,Karkhang ashom,LR,Bhutan,91.52,27.46
+BTNC_1637,Ashom tsalo,LR,Bhutan,91.52,27.17
+BTNC_1641,Monpa ashom,LR,Bhutan,91.41,27.16
+BTNC_1642,Taykharpa ashom,LR,Bhutan,91.48,27.15
+BTNC_91,Baipa asham tsa,LR,Bhutan,91.35,27.2
+BTNC_1643,Moupa,LR,Bhutan,91.509,27.118
+BTNC_1644,Monpa ashom,LR,Bhutan,91.52,27.15
+BTNC_1645,Baling,LR,Bhutan,91.52,27.12
+BTNC_1692,Zhamlingpa,LR,Bhutan,91.12,27.83
+BTNC_1699,Na,LR,Bhutan,91.22,27.46
+BTNC_1814,Bochu kharti,LR,Bhutan,91.11,27.832
+BTNC_1815,Bap serthi,LR,Bhutan,91.11,27.832
+BTNC_1817,Jangpa,LR,Bhutan,91.128,27.73
+BTNC_1818,Na,LR,Bhutan,91.01,27.01
+BTNC_1820,Teksumpa,LR,Bhutan,91.231,27.695
+BTNC_1821,Nepal asham,LR,Bhutan,91.595,26.967
+BTNC_1822,Chema ashom,LR,Bhutan,91.601,26.966
+BTNC_93,Romangpa asham,LR,Bhutan,91.53,27.36
+BTNC_1877,Teksumpa,LR,Bhutan,91.22,27.31
+BTNC_1894,Teksumpa,LR,Bhutan,90.12,26.94
+BTNC_1905,Teksumpa chazam,LR,Bhutan,90.8,27.12
+BTNC_95,Thumuli,LR,Bhutan,91.32,27.21
+BTNC_6,Baipa ashom,LR,Bhutan,91.53,27.29
+BTNC_2059,Meto asham,LR,Bhutan,91.58,27.09
+BTNC_2085,Dampa zintila,LR,Bhutan,90.91,26.93
+BTNC_2087,Khartila,LR,Bhutan,90.91,26.93
+BTNC_2088,Ashom,LR,Bhutan,90.964,27.174
+BTNC_108,Gangkhapa ashom,LR,Bhutan,91.382,27.018
+BTNC_2096,Zintila,LR,Bhutan,90.9,26.94
+BTNC_2098,Dampa lasapa,LR,Bhutan,90.92,26.94
+BTNC_111,Tholongpa ashom,LR,Bhutan,91.74,27.38
+BTNC_2385,Tsekharpa,LR,Bhutan,91.549,27.116
+BTNC_2387,Sep,LR,Bhutan,90.137,27.569
+BTNC_113,Baipa ashom,LR,Bhutan,91.44,27.32
+BTNC_2592,Balingbi,LR,Bhutan,91.46,27.06
+BTNC_2639,Chadom local,LR,Bhutan,90.461,27.551
+BTNC_2640,Ashom khartila,LR,Bhutan,90.59,27.22
+BTNC_2641,Chadom,LR,Bhutan,90.48,27.58
+BTNC_2086,Dompa khartila,LR,Bhutan,90.83,26.997
+BTNC_114,Themnangpa asho,LR,Bhutan,91.368,27.285
+BTNC_116,Pakaling ashom,LR,Bhutan,92.03,27.01
+BTNC_122,Yangtsepa ashom,LR,Bhutan,91.92,27.1
+BTNC_124,Dangpo ashom,LR,Bhutan,91.9,27.14
+BTNC_129,Asham tsalu,LR,Bhutan,91.44,27.31
+BTNC_130,Ashom,LR,Bhutan,91.61,27.21
+BTNC_131,Khalingpa ashom,LR,Bhutan,91.611,27.407
+BTNC_145,Ashom balingmin,LR,Bhutan,91.96,27.1
+BTNC_147,Ashom,LR,Bhutan,91.56,27.13
+BTNC_148,Ashom,LR,Bhutan,91.89,27.15
+BTNC_163,Ashom balingmi,LR,Bhutan,91.48,27.17
+BTNC_182,Dorjilingpa ash,LR,Bhutan,91.611,27.407
+BTNC_183,Teksum ashom,LR,Bhutan,90.52,27.41
+BTNC_202,Dorjilingpa ash,LR,Bhutan,91.48,27.17
+BTNC_210,Bayupa ashom,LR,Bhutan,91.57,27.04
+BTNC_211,Woolingpa ashom,LR,Bhutan,91.4,27.13
+BTNC_224,Pema kota asham,LR,Bhutan,91.1484,27.225
+BTNC_225,Asham balingmi,LR,Bhutan,91.22,27.26
+BTNC_254,Baipa asham,LR,Bhutan,89.58,27.04
+BTNC_260,Geyza,LR,Bhutan,90.52,27.41
+BTNC_266,Ashom balingmi,LR,Bhutan,91.92,27.1
+BTNC_298,Warong asham,LR,Bhutan,91.2609,27.2606
+BTNC_299,Tholongpa ashom,LR,Bhutan,91.74,27.37
+BTNC_311,Ashom tsalu,LR,Bhutan,92.03,27.01
+BTNC_313,Rala Ashom,LR,Bhutan,91.41,27.11
+BTNC_315,Woolingpa ashom,LR,Bhutan,91.35,27.03
+BTNC_316,Samchelingpa as,LR,Bhutan,91.35,27.26
+BTNC_458,Payalo makai,LR,Bhutan,90.09,26.96
+BTNC_461,Gayza maap,LR,Bhutan,89.65,27.54
+BTNC_565,Phenengla,LR,Bhutan,91.46,27.65
+BTNC_115,Paheli makai,LR,Bhutan,90.6,27.01
+BTNC_287,Sharpa ashom,LR,Bhutan,91.53,27.37
+BTNC_17,Sheto makai,LR,Bhutan,90.14,26.95
+BTNC_534,Gayza,LR,Bhutan,89.507,27.276
+BTNC_31,Sheto makai,LR,Bhutan,88.97,26.94
+BTNC_539,Paheli makai,LR,Bhutan,92.1,26.87
+BTNC_542,Sarkhari ashom,LR,Bhutan,91.69,26.95
+BTNC_545,Pahelo makai,LR,Bhutan,90.23,26.87
+BTNC_551,Sheti makai,LR,Bhutan,90.34,26.88
+BTNC_554,Sheti,LR,Bhutan,90.1,27.02
+BTNC_555,Sheti makai,LR,Bhutan,90.23,26.87
+BTNC_556,Sheti makai,LR,Bhutan,90.224,26.918
+BTNC_561,Pahelo makai,LR,Bhutan,90.35,26.9
+BTNC_562,Sheti makai,LR,Bhutan,90.233,26.862
+BTNC_52,Paheli makai,LR,Bhutan,89.56,26.89
+BTNC_568,Ashom,LR,Bhutan,90.31,26.86
+BTNC_569,Sheti makai,LR,Bhutan,90.25,26.93
+BTNC_573,Sheti makai,LR,Bhutan,90.31,26.86
+BTNC_577,Sheti makai,LR,Bhutan,90.36,26.9
+BTNC_582,Sarkari,LR,Bhutan,90.32,26.86
+BTNC_833,Sheti makai,LR,Bhutan,90.3,26.88
+BTNC_899,Sheti makai,LR,Bhutan,90.191,27.031
+BTNC_940,Sanu sheti,LR,Bhutan,90.11444,26.9125
+BTNC_941,Sheti makai,LR,Bhutan,89.252,27.017
+BTNC_55,Ashom,LR,Bhutan,91.399,27.059
+BTNC_943,Thulo paheli,LR,Bhutan,88.907,27.125
+BTNC_944,Sheto makai,LR,Bhutan,88.914,27.073
+BTNC_945,Sheti makai,LR,Bhutan,88.92,27.07
+BTNC_946,Sheti makai,LR,Bhutan,89.26,27.09
+BTNC_947,Sheti makai,LR,Bhutan,88.89,27.09
+BTNC_948,Paheli makai,LR,Bhutan,88.84,27.13
+BTNC_949,Sheti makai,LR,Bhutan,88.84,27.13
+BTNC_950,Sheto makai,LR,Bhutan,89.187,26.857
+BTNC_951,Sheti makai,LR,Bhutan,89.33389,26.85083
+BTNC_952,Pahelo makai,LR,Bhutan,90.53,27.07
+BTNC_1054,Sheti makai,LR,Bhutan,89.273,26.903
+BTNC_1057,Sheti makai,LR,Bhutan,89.26306,26.91972
+BTNC_1058,Pahelo makai,LR,Bhutan,89.147,27.016
+BTNC_1059,Sheti makai,LR,Bhutan,89.201,27.034
+BTNC_1060,Sathiya,LR,Bhutan,88.812,27.136
+BTNC_1061,Rato makai,LR,Bhutan,89.19005,27.03125
+BTNC_1062,Paheli sathia,LR,Bhutan,89.26306,26.91972
+BTNC_57,Sheti makai,LR,Bhutan,88.89,27.01
+BTNC_1063,Sheti makai,LR,Bhutan,88.87,27.13
+BTNC_1064,Sheti makai,LR,Bhutan,89.416,26.915
+BTNC_1065,Sathia makai,LR,Bhutan,89.237,27.003
+BTNC_1066,Sheti  makai,LR,Bhutan,89.24028,27.02778
+BTNC_1067,Gayza sechum,LR,Bhutan,89.6,26.9
+BTNC_1068,Sheto makai,LR,Bhutan,89.252,27.017
+BTNC_1069,Sheti makai,LR,Bhutan,89.06,27.03
+BTNC_1228,Sheti makai,LR,Bhutan,89.147,27.016
+BTNC_1304,Sheti makai,LR,Bhutan,90.32,26.9
+BTNC_3,Chepti makai,LR,Bhutan,90.166,27.031
+BTNC_1305,Paheli makai,LR,Bhutan,90.32,26.9
+BTNC_1306,Thrulo sheti,LR,Bhutan,90.04,27.05
+BTNC_1307,Sano sheti maka,LR,Bhutan,89.89,26.74
+BTNC_1309,Kali makai,LR,Bhutan,90.02,27.06
+BTNC_1310,Sanu paheli,LR,Bhutan,89.907,26.764
+BTNC_1311,Shanu sheti,LR,Bhutan,90.041,27.058
+BTNC_1312,Pahile makai,LR,Bhutan,90.32,26.9
+BTNC_1313,Bakal puri,LR,Bhutan,89.961,26.996
+BTNC_1314,Sheti makai,LR,Bhutan,89.93,26.75
+BTNC_1315,Sheti makai,LR,Bhutan,90.02,27.07
+BTNC_1316,Sanu sheti,LR,Bhutan,90.011,27.072
+BTNC_1377,Sathia makai,LR,Bhutan,89.907,26.764
+BTNC_1386,Paheli makai,LR,Bhutan,89.40444,27.0175
+BTNC_1387,Paheli makai,LR,Bhutan,89.42,26.98
+BTNC_1394,Sheto makai,LR,Bhutan,89.43,26.99
+BTNC_1395,Pahelo makai,LR,Bhutan,89.394,26.933
+BTNC_1399,Gayza kaap,LR,Bhutan,89.39694,27.03333
+BTNC_1418,Gayza sechum,LR,Bhutan,89.38493,27.05284
+BTNC_1419,Gayza kachum,LR,Bhutan,89.38493,27.05284
+BTNC_1434,Rato makai,LR,Bhutan,90.23,26.96
+BTNC_1477,Na,LR,Bhutan,89.849,27.543
+BTNC_1496,Bamon ashom,LR,Bhutan,90.04,26.98
+BTNC_1497,Sheti  makai,LR,Bhutan,89.75,26.74
+BTNC_1539,Chepti makai,LR,Bhutan,89.16,27.04
+BTNC_1540,Paheli makai,LR,Bhutan,89.16,27.04
+BTNC_1550,Sheti makai,LR,Bhutan,89.053,26.904
+BTNC_1551,Paheli makai,LR,Bhutan,89.99,26.95
+BTNC_1559,Sathiya makai,LR,Bhutan,89.99,26.95
+BTNC_1618,Sheti makai,LR,Bhutan,88.89,27.04
+BTNC_1886,Pailo makai,LR,Bhutan,90.14,27
+BTNC_1888,Pailo makai,LR,Bhutan,90.19,26.97
+BTNC_1889,Kali makai,LR,Bhutan,90.176,26.949
+BTNC_1890,Rato makai,LR,Bhutan,90.19,26.98
+BTNC_1891,Sheto makai,LR,Bhutan,90.117,27.001
+BTNC_1892,Karmo makai,LR,Bhutan,90.18,26.95
+BTNC_1893,Pailo makai,LR,Bhutan,90.117,27.001
+BTNC_1895,Sheto makai,LR,Bhutan,90.19,26.97
+BTNC_1896,Sheto makai,LR,Bhutan,90.14,27
+BTNC_1897,Sheto makai,LR,Bhutan,90.159,26.949
+BTNC_1941,Sheto makai,LR,Bhutan,90.53,26.87
+BTNC_1971,Satheya makai,LR,Bhutan,90.117,27.001
+BTNC_1972,Kalo makai,LR,Bhutan,90.14,27
+BTNC_96,Shingchu gung,LR,Bhutan,89.52,27.28
+BTNC_2228,Pema lingpa,LR,Bhutan,91.232,27.681
+BTNC_2366,Sheti makai,LR,Bhutan,91.1,26.85
+BTNC_2384,Satheya makai,LR,Bhutan,90.14,27.02
+BTNC_2565,Sheto makai,LR,Bhutan,89.945,26.956
+BTNC_2567,Pailo,LR,Bhutan,89.948,26.926
+BTNC_2568,Sheto,LR,Bhutan,89.948,26.926
+BTNC_2569,Kalo,LR,Bhutan,89.948,26.926
+SEMJONG1,Seti,LR,Bhutan,90.17,27.04
+SEMJONG2,Sathria,LR,Bhutan,90.17,27.04
+BTNC_7,Payalo makai,LR,Bhutan,90.109,26.949
+BTNC_132,Sheti makai,LR,Bhutan,89.42,26.88
+BTNC_146,Pahelo makai,LR,Bhutan,89.165,27.07
+BTNC_8,Sheti makai,LR,Bhutan,90.168,27.037
+BTNC_158,Sheti makai,LR,Bhutan,89.074,26.913
+BTNC_164,Paheli chepti m,LR,Bhutan,89.57,26.86
+BTNC_184,Sheti makai,LR,Bhutan,89.43,26.88
+BTNC_189,Sheti makai,LR,Bhutan,90.09,26.95
+BTNC_193,Sanu sheti mak,LR,Bhutan,90.18,27.08
+BTNC_9,Sathiya makai,LR,Bhutan,90.139,27.042
+BTNC_200,Paheli makai,LR,Bhutan,90.26,26.87
+BTNC_201,Sheti makai,LR,Bhutan,88.89,27.01
+BTNC_209,Kali makai,LR,Bhutan,90.19,27.04
+BTNC_222,Sheto makai,LR,Bhutan,89.56,26.89
+BTNC_10,Tshigsumpa,LR,Bhutan,91.317,27.04
+BTNC_253,Sheti makai,LR,Bhutan,90.184,27.029
+BTNC_11,Sathiya,LR,Bhutan,90.17,27.03
+BTNC_267,Sheti makai,LR,Bhutan,91.574,27.328
+BTNC_312,Sheti makai,LR,Bhutan,90.6,27.01
+BTNC_368,Sheto makai,LR,Bhutan,90.19,27.04
+BTNC_370,Paheli makai,LR,Bhutan,90.6,27.01
+BTNC_459,Sheti makai,LR,Bhutan,90.16,27.03
+BTNC_462,Payali makai,LR,Bhutan,90.175,27.073
+BTNC_527,Ashom,LR,Bhutan,91.5,26.92
+BTNC_526,Sinpo ashom,LR,Bhutan,91.58,27.48
+BTNC_528,Paheli makai,LR,Bhutan,91.7,26.85
+BTNC_533,Ashom,LR,Bhutan,91.51,26.85
+BTNC_535,Ashom,LR,Bhutan,91.4,27.11
+BTNC_537,Ashom,LR,Bhutan,91.44,26.85
+BTNC_544,Ber shaam,LR,Bhutan,92.1,26.88
+BTNC_546,Baipa ashom,LR,Bhutan,91.46,27.65
+BTNC_547,Teksumpa,LR,Bhutan,91.2,27.62
+BTNC_549,Baipa ashom,LR,Bhutan,91.534,27.45
+BTNC_552,Ashom,LR,Bhutan,91.58,27.42
+BTNC_557,Ashom,LR,Bhutan,91.508,26.855
+BTNC_559,Pahelo makai,LR,Bhutan,90.238,26.931
+BTNC_560,Ashom balingbi,LR,Bhutan,91.56,26.93
+BTNC_564,Mangdipa ashom,LR,Bhutan,91.508,27.602
+BTNC_566,Pahelo makai,LR,Bhutan,90.34,26.88
+BTNC_567,Domba sertila,LR,Bhutan,90.54,26.9
+BTNC_576,Ashom barma,LR,Bhutan,91.41,27
+BTNC_579,Paheli makai,LR,Bhutan,90.31,26.86
+BTNC_580,Pahelo makai,LR,Bhutan,90.28,26.94
+BTNC_581,Ashom,LR,Bhutan,90.31,26.86
+BTNC_584,Ningpa,LR,Bhutan,91.14,27.3
+BTNC_686,Domba sertila,LR,Bhutan,90.54,26.9
+BTNC_687,Phokpa ashom,LR,Bhutan,91.56,26.93
+BTNC_718,Kokti ashom,LR,Bhutan,91.706,27.367
+BTNC_834,Ma chana,LR,Bhutan,91.203,27.606
+BTNC_942,Sanu paheli,LR,Bhutan,88.812,27.136
+BTNC_1056,Gayza shechum,LR,Bhutan,89.96,27.301
+BTNC_1227,Bumtab,LR,Bhutan,89.5325,27.14083
+BTNC_1308,Pema lingpa ash,LR,Bhutan,90.02,26.98
+BTNC_73,Asham,LR,Bhutan,91.64,27.37
+BTNC_1365,Ashom,LR,Bhutan,91.57,27.09
+BTNC_1396,Ashom sothray,LR,Bhutan,90.04,26.98
+BTNC_1397,Yangtsepa,LR,Bhutan,90.87573,27.57312
+BTNC_1398,Pahile makai,LR,Bhutan,90.02,27.07
+BTNC_1476,Gayza talop,LR,Bhutan,89.747,27.689
+BTNC_1524,Gayza,LR,Bhutan,89.75,27.71
+BTNC_1593,Arun 4,LR,Bhutan,91.263,27.256
+BTNC_1633,Yangtsepa ashom,LR,Bhutan,91.49,27.15
+BTNC_1634,Monpa ashom,LR,Bhutan,91.54,27.15
+BTNC_1671,Tegkharpa,LR,Bhutan,91.531,27.128
+BTNC_1691,Serpo,LR,Bhutan,91.1,27.55
+BTNC_1693,Karpo,LR,Bhutan,91.234,27.462
+BTNC_1696,Karpo,LR,Bhutan,91.16,27.49
+BTNC_1791,Baipa amaar,LR,Bhutan,91.23,27.3
+BTNC_92,Yangtsepa ashom,LR,Bhutan,91.94,27.1
+BTNC_1816,Khartila,LR,Bhutan,91.128,27.73
+BTNC_1819,Yangtsepa,LR,Bhutan,91,27.01
+BTNC_1857,Serbu,LR,Bhutan,91.154,26.856
+BTNC_1858,Yangtshepa,LR,Bhutan,91.1,26.85
+BTNC_1859,Tsalu,LR,Bhutan,91.19,26.85
+BTNC_1860,Serbu,LR,Bhutan,91.154,26.856
+BTNC_1878,Cheeghar,LR,Bhutan,91.25,27.32
+BTNC_1887,Pailo makai,LR,Bhutan,90.18,26.95
+BTNC_94,Ashom balingmi,LR,Bhutan,91.53,27.36
+BTNC_1915,Kriapa,LR,Bhutan,90.79,27.13
+BTNC_1916,Japan dowsa,LR,Bhutan,90.799,27.117
+BTNC_1917,Chazam wgathpa,LR,Bhutan,90.71,27.2
+BTNC_1942,Warong ahom,LR,Bhutan,90.568,26.841
+BTNC_1943,Yangtsepa,LR,Bhutan,90.568,26.841
+BTNC_1953,Tegsumpa,LR,Bhutan,90.53,26.87
+BTNC_1970,Pailo makai,LR,Bhutan,90.159,26.949
+BTNC_1985,Tsalu,LR,Bhutan,91.25,26.84
+BTNC_1988,Yangtshepa,LR,Bhutan,91.1,26.86
+BTNC_1989,Lanisampa asham,LR,Bhutan,91.211,26.871
+BTNC_1990,Yangtshipa,LR,Bhutan,91.15,26.85
+BTNC_1991,Tshalu,LR,Bhutan,91.249,26.844
+BTNC_1992,Tsalu,LR,Bhutan,91.211,26.871
+BTNC_2023,Balingmin,LR,Bhutan,91.15,26.86
+BTNC_2089,Barshongpa domp,LR,Bhutan,90.98,26.87
+BTNC_2090,Teksumpa,LR,Bhutan,90.893,27.027
+BTNC_2091,Japan dompa,LR,Bhutan,90.66,27.17
+BTNC_2092,Teksumpa,LR,Bhutan,90.84,27
+BTNC_2093,Na,LR,Bhutan,90.8,27.02
+BTNC_2095,Sertila,LR,Bhutan,91,26.91
+BTNC_2094,Tshik sumpa,LR,Bhutan,90.853,27.009
+BTNC_2097,Krinpo ashom,LR,Bhutan,90.855,27.003
+BTNC_2149,Wingkhar,LR,Bhutan,91.15,26.85
+BTNC_2186,Serbu,LR,Bhutan,91.12856,26.85517
+BTNC_2188,Yangtsepa,LR,Bhutan,91.22,26.86
+BTNC_2215,Pemalingpa,LR,Bhutan,91.25,27.6
+BTNC_1697,Karpo,LR,Bhutan,91.16,27.489
+BTNC_2300,Khartila,LR,Bhutan,90.96,27.053
+BTNC_2383,Tsekharpu,LR,Bhutan,91.56,27.13
+BTNC_2386,Yangtsepa,LR,Bhutan,91.48,27.17
+BTNC_2554,Betpu asham,LR,Bhutan,91.23,26.92
+BTNC_2566,Pailo makai,LR,Bhutan,89.945,26.956
+BTNC_2581,Asham balingbi,LR,Bhutan,91.239,27.03
+BTNC_2589,Asham khanda,LR,Bhutan,91.239,27.03
+BTNC_2590,Ton asham,LR,Bhutan,91.2,27
+BTNC_2591,Sathia makai,LR,Bhutan,89.949,26.933
+BTNC_2594,Sinpo asham,LR,Bhutan,91.21,27
+BTNC_2676,Norbugang,LR,Bhutan,91.388,26.86
+SEMJONG3,Payeli,LR,Bhutan,90.17,27.04
+BTNC_121,Zhung ashom,LR,Bhutan,91.9,27.14
+BTNC_123,Ashom tshalo,LR,Bhutan,92.03,27
+BTNC_194,Ashom,LR,Bhutan,91.24,27.08
+BTNC_203,Ashom tsalu,LR,Bhutan,91.97,27.05
+BTNC_226,Ashom daza,LR,Bhutan,91.4,27.12
+BTNC_242,Ashom tsalu,LR,Bhutan,92.03,27
+BTNC_243,Ashom tsalu,LR,Bhutan,92.04,27
+BTNC_252,Ashom,LR,Bhutan,91.403,27.021
+BTNC_367,Raba tsalu asha,LR,Bhutan,91.12,27.52
+BTNC_369,Kengkharpa,LR,Bhutan,91.06,26.95
+BTNC_457,Dangpo ashom ts,LR,Bhutan,91.57,27.04
+BTNC_732,Pema lingpa,LR,Bhutan,91.2,27.61
+BTNC_53,Sheti makai,LR,Bhutan,89.03,26.94
+BTNC_177,Sheti makai,LR,Bhutan,89.477,26.831
+BTNC_241,Sathiya makai,LR,Bhutan,89.01,26.94
+BTNC_314,Paheli makai,LR,Bhutan,89.43,26.88
+BTNC_317,Phophor asho,LR,Bhutan,91.65,27.38
+BTNC_16,Pahelo makai,LR,Bhutan,90.09,26.95
